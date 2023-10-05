@@ -28,8 +28,3 @@ function answearText() {
 
     res.innerHTML = result
 }
-
-
-
-
-
